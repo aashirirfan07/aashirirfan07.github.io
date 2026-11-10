@@ -1,0 +1,12 @@
+{
+  "name": "portfolio12",
+  "version": "1.0.0",
+  "description": "Ashir Irfan - Portfolio Website",
+  "main": "index.html",
+  "scripts": {
+    "start": "npx serve ."
+  },
+  "keywords": ["portfolio", "ashir-irfan", "nextjs", "developer"],
+  "author": "Ashir Irfan",
+  "license": "MIT"
+}
