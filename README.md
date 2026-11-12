@@ -35,3 +35,4 @@ Open `http://localhost:3000` in your browser.
 1. Import repository in [Vercel](https://vercel.com).
 2. Framework Preset: **Other** / Static.
 3. Deploy!
+
